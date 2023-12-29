@@ -5,3 +5,5 @@ Esse trabalho foi desenvolvido com a aplicação de  técnicas de estatística u
 # Visualização 
 
 Para melhor interação e exploração desse projeto faça o download do arquivo html (clicando no icone 'download raw file' que aparece no canto superior direito), e abra no seu Browser favorito.
+
+[![dlgithub.png](https://i.postimg.cc/PqGTXYzD/dlgithub.png)](https://postimg.cc/BjCdN8zZ)
